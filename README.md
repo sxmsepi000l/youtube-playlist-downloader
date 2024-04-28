@@ -15,7 +15,7 @@ unfortunately if try to edit the script and download videos in 1080p it will hav
 # Usage
 <ul>
     <li>right click the (yt-pl-dl.py) edit </li>
-    <li>put your playlist link inside line 24 (playlist_url = "Your Link Here") </li>
+    <li>put your playlist link inside line 26 (playlist_url = "Your Link Here") </li>
     <li>save it</li>
     <li>run it in cmd python3 yt-pl-dl.py (you can type yt then press tab) and there you go now you have the full playlist downloaded in 720p</li>
 </ul>
