@@ -7,6 +7,7 @@ unfortunately if try to edit the script and download videos in 1080p it will hav
 
 # Requirements
 <ul>
+ <li>Python</li>   
 <li>requests (pip install requests)</li>
 <li>pytube (pip install pytube)</li>
 <li>youtube-dl (pip install youtube-dl)</li>
